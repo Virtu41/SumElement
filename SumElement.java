@@ -1,12 +1,12 @@
 /**
  * Adds integer inputs into arrays that can be listed and removed and find sum of all numbers, even numbers and odd numbers
  * 
- * modified 20220402
- * date 20220328
- * @filename SumElement.java
- * @author Oscar Lam
- * @version 1.0
- * @see unit 2 activity 2
+ * modified     20220408
+ * date         20220328
+ * @filename    SumElement.java
+ * @author      Oscar Lam 	
+ * @version     1.0
+ * @see         Unit 2 activity 2
  */
 
 import java.awt.BorderLayout;
@@ -154,7 +154,6 @@ public class SumElement extends JFrame {
 									count--;
 								}
 							}
-
 						}
 						textFieldCount.setText(count+"");
 						textFieldInput.setText("");
